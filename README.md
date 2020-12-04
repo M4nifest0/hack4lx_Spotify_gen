@@ -1,73 +1,89 @@
-# ![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/levlogo.png) 
+# ![Locations](https://github.com/M4nifest0/M4nifest0_WhatsApp/blob/master/s.png) 
 
-**********************************************************
+# hack4lx_Spotify_gen v1.0.0
+# M4nifest0-Spotify v1.0.1
 
-# ![Locations](https://github.com/attakercyebr/hack4lx_Spotify_gen/blob/master/photo_2020-04-03_13-49-45.png) 
+##### 👁‍🗨 Project features:👇 #####
+----------------------
+- 📌 ☠️ Masterpiece version after 1 month of programming by ☠️👊 M4nifest0 Black Hat Hacking Team™💪(Bad Boys)
+- 📌 Python +3.8.5 programming language is used.
+- 📌 Use of public libraries.
+- 📌 Two libraries added.
+- 📌 Trade more.
+- 📌 Reported cases have been resolved.
+- 📌 Performance improvements.
+- 📌 Reset the codes.
+- 📌 diagnosis.
 
+### Applicable on:
+<p align="center">	
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
+	<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+		<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+			<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/linuxmint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge" />
+				<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" />
+						
+### Version changes:
+- 🦠 Version 1.0.0 [OLD]
+- 🦠 Version 1.0.1 [New version]
 
-# ![Locations](https://github.com/attakercyebr/hack4lx_Spotify_gen/blob/master/photo_2020-04-03_13-49-4445.png) 
-
-
-# ![Locations](https://github.com/attakercyebr/hack4lx_Spotify_gen/blob/master/photo_2020-04-03_13-49-4u445.png) 
-
-
-**********************************************************
-
-**This tool is a Proof of Concept and is for Educational Purposes Only, hack4lx_Spotify_gen shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
-
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-⚠️ Read-First:
-
-🔞The author of the does not encourage anyone to repeat this. Otherwise, you will be solely responsible. The was created for informational purposes. And for the fact that you caution you!🙏
-
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-Description 👀 hack4lx_Spotify_gen
-
-Title 📌  Today I am at your service with another tutorial
-Generate More than 500 account in a few minutes.
-Thanks
-Please introduce our channel to other friends
-
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-
-💀 Made by ☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️
-
-Author 🏴‍☠️ rainboy1 | erfan4lx | Vampire4lx
-
-Aate ♾ 2020 June
-
-Version 👁‍🗨 1.0.0
-
-Usage 👌 license
-
-Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)
+### 🔖 Installation conditions:👇
+- 👍Watch the tutorial video first
+- 1️⃣ Install Python +3.8.5
+- 2️⃣ Use a private proxy for more results
+- 3️⃣ Execute commands
+- 4️⃣ Enjoy now
 
 
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+##### Sales of training and security software
+- 🛄 Privet tutorials and scripts 🈂️  https://M4nifest0.com 🈂️
 
-☠️👊𝓷𝓲𝓯𝓮𝓼𝓽4𝓷𝓲𝓯𝓮𝓼𝓽0 (MCS) Telegram Groups We are a team of  𝓑𝓵𝓪𝓬𝓴  𝓗𝓪𝓽  𝓗𝓪𝓬𝓴𝓮𝓻𝓼  because we know what is at stake. We prepare hackers by providing training and hacking tools. We are one of the few Black hat hacking teams that show you their skills.👁‍🗨💪
+##### Supported Analysis
+### Key
+- This text must be read [KEY]
 
-👇🏾👇🏾👇🏾👇🏾👇🏾
+##### See Training 
 
-[![Join To Telegram Groups](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/M4nifest0)
+- 🔞 See Training 🎥 https://youtu.be/39d5FRRtL-Y  🎥
 
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+----------------------
 
-Telegram Chat ID 📞 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
-
-✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-<p align="center">
-  ✯ Follow Me On ♥️👇🏾👇🏾👇🏾
+<h2>🌐 Follow (bad boys) in virtual networks 📍</h2>
+<p align="center">	
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/M4nifest0">
+		<img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.instagram.com/_m4nifest0_/">
+		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.youtube.com/c/cybermonitoringhack4lx">
+		<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/_M4nifest0_">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/WebSite-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC73xXDVwfS8mE4ExtOg63sw/videos?view_as=subscriber">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIe0KA-4U2wilfj3CwcetOZYjaXr_C6bh5b9Xp3eDfeATwkhn82b70ELBt&s" width="40" height="40">
-  </a>
-  <a href="https://t.me/M4nifest0">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOo5m2bMLsKVd9-ZjGf0xl0SAVqj9Fgxvu89_iu24qUcWQJ-X_1lvI5yOIA&s" width="40" height="40">
-</p>
 
+<h2>📌 Our team specializes in the following programming languages:...</h2>
+<p align="center">	
+	<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+	<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+	<img src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white" />
+	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>

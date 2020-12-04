@@ -30,7 +30,8 @@
 		<img src="https://img.shields.io/badge/linuxmint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge" />
 				<a href="https://m4nifest0.com">
 		<img src="https://img.shields.io/badge/arch-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" />
-						
+			
+			
 ### Version changes:
 - 🦠 Version 1.0.0 [OLD]
 - 🦠 Version 1.0.1 [New version]
